@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ikewahyuningwulandari_1202154360_studycase4</string>
+    <string name="list_nama">list_nama</string>
+    <string name="mulai_asynctask">mulai_asynctask</string>
+    <string name="list_nama_mahasiswa">list_nama_mahasiswa</string>
+    <string name="pencari_gambar">pencari_gambar</string>
+    <string name="cari_gambar">cari_gambar</string>
+    <string name="btn_gambar">btn_gambar</string>
+</resources>
